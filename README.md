@@ -1,6 +1,7 @@
 # Chess Project
 
 A fully functional chess game with both text-based and graphical interfaces, supporting human and AI players. Developed for CS246 Spring 2024.
+![image](https://github.com/user-attachments/assets/62c849cc-eeef-4748-9156-8d0b4972b33a)
 
 ## Features
 - Dual display modes: Text-based and graphical (X11)
